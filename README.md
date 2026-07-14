@@ -18,10 +18,10 @@ This project demonstrates CRUD operations using the DAO and Service Layer archit
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Maven](https://img.shields.io/badge/Maven-Build-red)
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven)
 
 ---
 
